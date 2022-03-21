@@ -31,6 +31,8 @@ const app = () => {
             <Suspense fallback={null}>
                 
                 <Earth/>
+
+                <Mars/>
                 <Moon/>
             </Suspense>
         
