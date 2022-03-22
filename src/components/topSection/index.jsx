@@ -33,7 +33,7 @@ export function TopSection(){
       <Experience/>
       <Services/>
       <Portfolio/>
-      <Testimonials/>
+      {/* <Testimonials/> */}
       <Contact />
       <Footer/>
       
